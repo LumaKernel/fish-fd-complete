@@ -7,7 +7,7 @@ Task completion and flag completion.
 ### With [Fisher](https://github.com/jorgebucaran/fisher)
 
 ```fish
-fisher add LumaKernel/fish-fd-complete@main
+fisher add LumaKernel/fish-fd-complete
 ```
 
 ## License
