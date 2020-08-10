@@ -1,6 +1,6 @@
 # fd completion for fish shell
 
-Task completion and flag completion.
+Flag completions.
 
 ## Installation
 
