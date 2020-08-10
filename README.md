@@ -10,6 +10,12 @@ Task completion and flag completion.
 fisher add LumaKernel/fish-fd-complete
 ```
 
+### With [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
+
+```fish
+omf install https://github.com/LumaKernel/fish-fd-complete
+```
+
 ## License
 
 [Unlicnse](LICENSE)
