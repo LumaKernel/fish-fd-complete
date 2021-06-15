@@ -7,7 +7,7 @@ Flag completions.
 ### With [Fisher](https://github.com/jorgebucaran/fisher)
 
 ```fish
-fisher add LumaKernel/fish-fd-complete
+fisher install LumaKernel/fish-fd-complete
 ```
 
 ### With [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
