@@ -1,3 +1,9 @@
+> [!NOTE]
+> Archived. Now you can generate the completion with `fd --gen-completions=fish`  
+> see https://github.com/sharkdp/fd/issues/1278
+
+
+
 # fd completion for fish shell
 
 Flag completions.
